@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @praashant99
+- 👋 Hi, I’m prashant
 - 👀 I’m interested in Data Analysis,MachineLearning & DeepLearning
 - 🌱 I’m currently learning Natural Language Processing (NLP)
 - 💞️ I’m looking to collaborate on Hackathons
